@@ -1,6 +1,8 @@
 ---
 published: true
 ---
+![abs]({{site.baseurl}}/_posts/Adobe_Express_20221012_2019230_1.png)
+![Adobe_Express_20221012_2019230_1.png]({{site.baseurl}}/_posts/Adobe_Express_20221012_2019230_1.png)
 ## ABOUT ME
  
 ****Hello!
