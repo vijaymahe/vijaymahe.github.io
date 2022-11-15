@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WELCOMR TO VIJAYMAHE BLOG
+title: WELCOME TO VIJAYMAHE BLOG
 published: true
 ---
 
