@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## ABOUT ME
  
@@ -19,11 +19,3 @@ Browsing youtube about diiferent concepts related to Data Science things ,some o
 
 ### Things related to economics which I follow :
 1.https://www.youtube.com/c/ThinkSchool
-
-
-
-
-
-
-
-
