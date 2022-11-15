@@ -4,7 +4,12 @@ published: true
 ## ABOUT ME
  
 ****Hello!
-This is vijay.A ,I am an Data_Scientist_Traineee.Still Now I have completed course related to data science like
+This is vijay.A ,I am an Data_Scientist_Traineee.Still Now I have completed course related to data science 
+
+
+![]({{site.baseurl}}/https://avatars.githubusercontent.com/u/95134629?s=400&u=ddd6ae2d839c812a05fc7a827d54d505032fa234&v=4)
+
+like
 -Python
 -MySql
 -git
