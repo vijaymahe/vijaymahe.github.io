@@ -10,4 +10,4 @@ published: true
 
 ### Contact me
 
-[email@domain.com](mailto:vijaymahe83@gmail.com.com)
+[email@domain.com](mailto:vijaymahe83@gmail.com)
