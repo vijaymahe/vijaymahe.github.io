@@ -2,14 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+**** hello 
+ This is Vijay , I am a data scientist exploring how jakeyll is working
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:vijaymahe83@gmail.com.com)
