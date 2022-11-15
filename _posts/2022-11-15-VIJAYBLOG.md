@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## TODAY I AM STARTING MY FIRS VLOG
 **** I AM LIKING HOW IT WORKS AND I AM GONE EXPLORE THE CONTENT HOW IT QORKS
@@ -7,5 +7,3 @@ __ ITALIC COMMENTS
 > We loved with a love that was more than love
 
 I AM JUST TRYING HOW BLOCKQUOTE WORKS
-
-
